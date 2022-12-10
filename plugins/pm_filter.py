@@ -406,7 +406,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ DISCUSSION ➕', url='https://t.me/mightymoviesgroup')
         ], [
             InlineKeyboardButton('⚡ SUPPORT', url='https://t.me/mcsupportchannel')
-            InlineKeyboardButton('🔥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/mocmovies')
+            InlineKeyboardButton('🔥 JOIN', url='https://t.me/mocmovies')
         ], [
             InlineKeyboardButton('💠 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('💤 ᴀʙᴏᴜᴛ', callback_data='about')
